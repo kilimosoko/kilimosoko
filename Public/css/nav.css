@@ -11,6 +11,7 @@
     left: 0;
     width: 100%;
     background: #f5f5f5;
+    opacity: 95%;
     z-index: 9;
 }
 
@@ -54,7 +55,7 @@
     border: none;
     outline: none;
     cursor: pointer;
-    background: #383838;
+    background: #73d2a1;
     color: #fff;
     text-transform: capitalize;
     font-size: 15px;
