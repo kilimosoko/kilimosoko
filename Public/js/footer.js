@@ -34,8 +34,8 @@ const createFooter = () => {
     </div>
     <p class="footer-title">about company</p>
     <p class="info"></p>
-    <p class="info">support emails - help@clothing.com, customersupport@clothing.com</p>
-    <p class="info">telephone - 0707118709</p>
+    <!-- <p class="info">support emails - help@clothing.com, customersupport@clothing.com</p>
+    <p class="info">telephone - 0707118709</p> -->
     <div class="footer-social-container">
         <div>
             <a href="#" class="social-link">terms & services</a>
