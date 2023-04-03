@@ -1,0 +1,25 @@
+{
+  "name": "kilimosoko",
+  "version": "1.0.0",
+  "description": "kilimosoko website server page",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "ls"
+  },
+  "repository": {
+    "type": "git",
+    "url": "kilimosoko"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "express.js": "^1.0.0",
+    "firebase-admin": "^11.5.0",
+    "nodemon": "^2.0.21"
+  }
+}
